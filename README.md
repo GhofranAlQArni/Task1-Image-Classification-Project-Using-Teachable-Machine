@@ -1,6 +1,9 @@
 # Task1-Image-Classification-Project-Using-Teachable-Machine
 Image Classification Project Using Teachable Machine
 
+# TO use it 
+https://teachablemachine.withgoogle.com/models/AHNN5BGpy/
+
 
 This project focuses on building a simple image classification model to distinguish between two categories using Teachable Machine. I chose this tool because it offers an intuitive interface for creating machine learning models, making it accessible even for beginners. The goal was to develop a model that could classify images accurately with minimal effort and setup.
 
